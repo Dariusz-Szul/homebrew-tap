@@ -1,6 +1,6 @@
 cask "typeseer" do
-  version "1.6.12"
-  sha256 "d8eae3fc00e3348484886985fe8adbc758089f371a29090be784602ab10b17c7"
+  version "1.6.13"
+  sha256 "a2ce71e380ec2d4979f0cfac8509aa510b7696c1beb26b73a7607f432ed56de8"
 
   url "https://typeseer.com/downloads/TypeSeer-#{version}.dmg"
   name "TypeSeer"
